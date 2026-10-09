@@ -1,0 +1,250 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:3f4ea0bd-c928-5bb6-acea-a58764b5691b",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T06:01:28Z",
+  "component": {
+   "type": "application",
+   "name": "REACT_REAL_ESTATE",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/REACT_REAL_ESTATE@83b357604d34",
+   "purl": "pkg:generic/anticloud/REACT_REAL_ESTATE@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "MIT"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [
+  {
+   "type": "library",
+   "name": "axios",
+   "version": "^0.16.1",
+   "purl": "pkg:npm/axios@^0.16.1",
+   "bom-ref": "npm/axios@^0.16.1"
+  },
+  {
+   "type": "library",
+   "name": "babel-core",
+   "version": "^6.24.1",
+   "purl": "pkg:npm/babel-core@^6.24.1",
+   "bom-ref": "npm/babel-core@^6.24.1"
+  },
+  {
+   "type": "library",
+   "name": "babel-loader",
+   "version": "^6.4.1",
+   "purl": "pkg:npm/babel-loader@^6.4.1",
+   "bom-ref": "npm/babel-loader@^6.4.1"
+  },
+  {
+   "type": "library",
+   "name": "babel-preset-env",
+   "version": "^1.4.0",
+   "purl": "pkg:npm/babel-preset-env@^1.4.0",
+   "bom-ref": "npm/babel-preset-env@^1.4.0"
+  },
+  {
+   "type": "library",
+   "name": "babel-preset-es2015",
+   "version": "^6.24.1",
+   "purl": "pkg:npm/babel-preset-es2015@^6.24.1",
+   "bom-ref": "npm/babel-preset-es2015@^6.24.1"
+  },
+  {
+   "type": "library",
+   "name": "babel-preset-react",
+   "version": "^6.24.1",
+   "purl": "pkg:npm/babel-preset-react@^6.24.1",
+   "bom-ref": "npm/babel-preset-react@^6.24.1"
+  },
+  {
+   "type": "library",
+   "name": "browser-sync",
+   "version": "^2.18.8",
+   "purl": "pkg:npm/browser-sync@^2.18.8",
+   "bom-ref": "npm/browser-sync@^2.18.8"
+  },
+  {
+   "type": "library",
+   "name": "gulp",
+   "version": "^3.9.1",
+   "purl": "pkg:npm/gulp@^3.9.1",
+   "bom-ref": "npm/gulp@^3.9.1"
+  },
+  {
+   "type": "library",
+   "name": "gulp-autoprefixer",
+   "version": "^3.1.1",
+   "purl": "pkg:npm/gulp-autoprefixer@^3.1.1",
+   "bom-ref": "npm/gulp-autoprefixer@^3.1.1"
+  },
+  {
+   "type": "library",
+   "name": "gulp-babel",
+   "version": "^6.1.2",
+   "purl": "pkg:npm/gulp-babel@^6.1.2",
+   "bom-ref": "npm/gulp-babel@^6.1.2"
+  },
+  {
+   "type": "library",
+   "name": "gulp-concat",
+   "version": "^2.6.0",
+   "purl": "pkg:npm/gulp-concat@^2.6.0",
+   "bom-ref": "npm/gulp-concat@^2.6.0"
+  },
+  {
+   "type": "library",
+   "name": "gulp-eslint",
+   "version": "^3.0.1",
+   "purl": "pkg:npm/gulp-eslint@^3.0.1",
+   "bom-ref": "npm/gulp-eslint@^3.0.1"
+  },
+  {
+   "type": "library",
+   "name": "gulp-imagemin",
+   "version": "^3.0.3",
+   "purl": "pkg:npm/gulp-imagemin@^3.0.3",
+   "bom-ref": "npm/gulp-imagemin@^3.0.3"
+  },
+  {
+   "type": "library",
+   "name": "gulp-sass",
+   "version": "^2.3.2",
+   "purl": "pkg:npm/gulp-sass@^2.3.2",
+   "bom-ref": "npm/gulp-sass@^2.3.2"
+  },
+  {
+   "type": "library",
+   "name": "gulp-shell",
+   "version": "^0.6.3",
+   "purl": "pkg:npm/gulp-shell@^0.6.3",
+   "bom-ref": "npm/gulp-shell@^0.6.3"
+  },
+  {
+   "type": "library",
+   "name": "gulp-uglify",
+   "version": "^2.0.0",
+   "purl": "pkg:npm/gulp-uglify@^2.0.0",
+   "bom-ref": "npm/gulp-uglify@^2.0.0"
+  },
+  {
+   "type": "library",
+   "name": "gulp-watch",
+   "version": "^4.3.9",
+   "purl": "pkg:npm/gulp-watch@^4.3.9",
+   "bom-ref": "npm/gulp-watch@^4.3.9"
+  },
+  {
+   "type": "library",
+   "name": "html-webpack-plugin",
+   "version": "^2.28.0",
+   "purl": "pkg:npm/html-webpack-plugin@^2.28.0",
+   "bom-ref": "npm/html-webpack-plugin@^2.28.0"
+  },
+  {
+   "type": "library",
+   "name": "node-sass",
+   "version": "^4.5.2",
+   "purl": "pkg:npm/node-sass@^4.5.2",
+   "bom-ref": "npm/node-sass@^4.5.2"
+  },
+  {
+   "type": "library",
+   "name": "react",
+   "version": "^15.5.4",
+   "purl": "pkg:npm/react@^15.5.4",
+   "bom-ref": "npm/react@^15.5.4"
+  },
+  {
+   "type": "library",
+   "name": "react-dom",
+   "version": "^15.5.4",
+   "purl": "pkg:npm/react-dom@^15.5.4",
+   "bom-ref": "npm/react-dom@^15.5.4"
+  },
+  {
+   "type": "library",
+   "name": "react-redux",
+   "version": "^5.0.4",
+   "purl": "pkg:npm/react-redux@^5.0.4",
+   "bom-ref": "npm/react-redux@^5.0.4"
+  },
+  {
+   "type": "library",
+   "name": "react-router",
+   "version": "^4.1.1",
+   "purl": "pkg:npm/react-router@^4.1.1",
+   "bom-ref": "npm/react-router@^4.1.1"
+  },
+  {
+   "type": "library",
+   "name": "redux",
+   "version": "^3.6.0",
+   "purl": "pkg:npm/redux@^3.6.0",
+   "bom-ref": "npm/redux@^3.6.0"
+  },
+  {
+   "type": "library",
+   "name": "sass-loader",
+   "version": "^6.0.3",
+   "purl": "pkg:npm/sass-loader@^6.0.3",
+   "bom-ref": "npm/sass-loader@^6.0.3"
+  },
+  {
+   "type": "library",
+   "name": "standard",
+   "version": "^10.0.2",
+   "purl": "pkg:npm/standard@^10.0.2",
+   "bom-ref": "npm/standard@^10.0.2"
+  },
+  {
+   "type": "library",
+   "name": "webpack",
+   "version": "^2.5.1",
+   "purl": "pkg:npm/webpack@^2.5.1",
+   "bom-ref": "npm/webpack@^2.5.1"
+  },
+  {
+   "type": "library",
+   "name": "webpack-stream",
+   "version": "^3.2.0",
+   "purl": "pkg:npm/webpack-stream@^3.2.0",
+   "bom-ref": "npm/webpack-stream@^3.2.0"
+  },
+  {
+   "type": "library",
+   "name": "babel-preset-stage-0",
+   "version": "^6.24.1",
+   "purl": "pkg:npm/babel-preset-stage-0@^6.24.1",
+   "bom-ref": "npm/babel-preset-stage-0@^6.24.1"
+  }
+ ],
+ "source": {
+  "git": {
+   "head": null,
+   "url": null,
+   "sha_unverified": true,
+   "note": "contamination removed; resolve via GitHub API before quoting"
+  }
+ }
+}
