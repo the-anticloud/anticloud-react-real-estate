@@ -544,8 +544,8 @@
    "url": "https://github.com/open-condo-software/condo",
    "head": "73d85fde9725b194461118026dc18f3b728ffd35",
    "branch": "",
-   "sha_verified_from": "permissive resolve 2026-10-16: MIT/Apache genre match",
-   "previous_upstream": ""
+   "sha_verified_from": "permissive resolve 2026-10-16: MIT/Apache genre match (local vendor 20261107T163740Z)",
+   "previous_upstream": "https://github.com/open-condo-software/condo"
   }
  }
 }
