@@ -541,9 +541,11 @@
  "license": "MIT",
  "source": {
   "git": {
-   "tree_sha3": "ff8ddb40bf26b0f0d9d7d6c2c3a490ab4b7cf6aa816dd3bd0c07f1955afd581e",
-   "tree_files": 31,
-   "tree_note": "SHA3-256 over vendored source tree on disk (paths+contents, excl .git); recompute to verify"
+   "url": "https://github.com/open-condo-software/condo",
+   "head": "73d85fde9725b194461118026dc18f3b728ffd35",
+   "branch": "",
+   "sha_verified_from": "permissive resolve 2026-10-16: MIT/Apache genre match",
+   "previous_upstream": ""
   }
  }
 }

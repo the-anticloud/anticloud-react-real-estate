@@ -1,14 +1,14 @@
 # REACT_REAL_ESTATE
 
-> This website was built with **React.js and SASS**. Demonstrates filter and sorting functionality.
+> [Condo](https://github.com/open-condo-software/condo) is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while offering an extension system for mini-apps, making it an ideal platform for property management companies and those servicing shared properties.
 
-**Category:** REAL_ESTATE · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/AHMAD-JX/Hozn-RealEstate-Fullstack · **Pinned commit:** `146f804de9b7fc09eb3ead9da71826e979794978` · **Vendor:** Anticloud FZ LLE
+**Category:** REAL_ESTATE · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/open-condo-software/condo · **Pinned commit:** `73d85fde9725b194461118026dc18f3b728ffd35` · **Vendor:** Anticloud FZ LLE
 
-> **Note:** this package vendors `https://github.com/AHMAD-JX/Hozn-RealEstate-Fullstack` as the implementation for the `REACT_REAL_ESTATE` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+> **Note:** this package vendors `https://github.com/open-condo-software/condo` as the implementation for the `REACT_REAL_ESTATE` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
 
 ## What This Project Is
 
-This website was built with **React.js and SASS**. Demonstrates filter and sorting functionality.
+[Condo](https://github.com/open-condo-software/condo) is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while offering an extension system for mini-apps, making it an ideal platform for property management companies and those servicing shared properties.
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -62,7 +62,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-ba764384a7de0fa88bb41a4947a7b8465fac5549bd42d937666994ad4c69d502
+80682a11490f3b6c930cab151f0540b674a488aa059bccb776e952409d9466e6
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.
